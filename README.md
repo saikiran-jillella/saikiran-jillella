@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  welcome to my corner of github — building things, riding bikes, and tinkering down to the metal.
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Bengaluru-India-181717?style=flat-square" />
   <a href="https://www.linkedin.com/in/saikiran-jillella">
     <img src="https://img.shields.io/badge/LinkedIn-181717?style=flat-square&logo=linkedin&logoColor=white" />
